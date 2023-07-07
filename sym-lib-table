@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CA3046")(type "KiCad")(uri "/Users/bowena/Documents/Projects/Personal/custom_components/CA3046.kicad_sym")(options "")(descr ""))
+)
