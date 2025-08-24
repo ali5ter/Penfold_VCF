@@ -1,4 +1,4 @@
-> **⚠️ Archived 2025-08-21. No longer maintained.**
+> **⚠️ Archived 2025-08-24. No longer maintained.**
 
 # Penfold_VCF
 [KiCad](https://www.kicad.org/) project for the circuit and PCB of R.A. Penfolds VCF design which I adapted as a Eurorack powered module.
